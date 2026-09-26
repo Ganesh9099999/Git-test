@@ -1,1 +1,3 @@
-My github first file
+My github first file 
+
+My second day to learn the Github
